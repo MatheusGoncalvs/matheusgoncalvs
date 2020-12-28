@@ -1,16 +1,12 @@
-### Hi there 👋
+### Welcome 👋
 
-<!--
-**MatheusGoncalvs/matheusgoncalvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About me:
+- :mortar_board: Bachelor of Computer Science
+- 🌱 I’m currently .NET developer
+- :cd: Music is life! Listen to my playlist on [Spotify](https://open.spotify.com/playlist/34Cok8I3UTrU69llgi0gnT) 
+- :trophy: My main form of learning is practicing on projects. It is much more fun to learn by solving real problems.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Want to chat? Send me a message:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusgoncalvs/)](https://www.linkedin.com/in/matheusgoncalvs/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/matheusgoncalvz/)](https://www.instagram.com/matheusgoncalvz/)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=matheusgoncalvs)
